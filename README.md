@@ -7,3 +7,4 @@ API that stores information on Health Products
 * How to filter back ends with URL query parameters
 * How to enable pagination of querysets in the API response
 * How to run unit tests on every view of the API
+* How to hook class-based views into Django's URL system
